@@ -13,3 +13,4 @@ For running local machine use
 
 ## Important links
 * [api-rekognition](https://docs.aws.amazon.com/aws-sdk-php/v3/api/class-Aws.Rekognition.RekognitionClient.html)
+* [AWS console](https://aws.amazon.com/console/)
